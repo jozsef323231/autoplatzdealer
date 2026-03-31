@@ -1,0 +1,40 @@
+﻿<Page x:Class="WpfApp1.LocationsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="clr-namespace:WpfApp1"
+      Title="Helyszínek">
+    <Grid Margin="10">
+        <StackPanel>
+            <Button Content="Új helyszín hozzáadása" Click="AddLocation_Click" Width="150" Margin="0,0,0,10" />
+
+            <ListView Name="LocationsListView" SelectionChanged="LocationsListView_SelectionChanged">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Név" DisplayMemberBinding="{Binding LocationName}" Width="150" />
+                        <GridViewColumn Header="Irányítószám" DisplayMemberBinding="{Binding Address.PostalCode}" Width="100" />
+                        <GridViewColumn Header="Város" DisplayMemberBinding="{Binding Address.City}" Width="100" />
+                        <GridViewColumn Header="Utca" DisplayMemberBinding="{Binding Address.Street}" Width="120" />
+                        <GridViewColumn Header="Kapacitás" DisplayMemberBinding="{Binding MaxCapacity}" Width="80" />
+                        <GridViewColumn Header="Telefon" DisplayMemberBinding="{Binding PhoneNumber}" Width="100" />
+                        <!-- Szerkesztés Gomb -->
+                        <GridViewColumn Header="Szerkesztés" Width="50">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Szerkeszt" Click="EditLocation_Click" Tag="{Binding Id}" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <!-- Törlés Gomb -->
+                        <GridViewColumn Header="Törlés" Width="50">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Töröl" Click="DeleteLocation_Click" Tag="{Binding Id}" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Page>

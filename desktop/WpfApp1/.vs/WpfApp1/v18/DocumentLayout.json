@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|f:\\vizsgaremek\\carshopproj-main\\desktop\\wpfapp1\\wpfapp1\\addlocationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\addlocationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\edituserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\edituserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\pages\\carmakerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\carmakerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\addcarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\addcarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\editlocationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editlocationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\editlocationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editlocationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\addlocationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\addlocationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\pages\\locationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\locationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\editcarmodelwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editcarmodelwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\createnewcarmodelwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\createnewcarmodelwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\editcarmakerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editcarmakerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\pages\\carmodelpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\carmodelpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\pages\\carmakerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\carmakerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\editcarmodelwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editcarmodelwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\editcarmakerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editcarmakerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\createnewcarmodelwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\createnewcarmodelwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\pages\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\pages\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\wpfapp1\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966686C-8244-4029-B4AF-3632313E2B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCarWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\AddCarWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AddCarWindow.xaml.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\AddCarWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\AddCarWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:42:52.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarMakersPage.xaml.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\CarMakersPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\CarMakersPage.xaml.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\CarMakersPage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\CarMakersPage.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:42:22.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddLocationWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\AddLocationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AddLocationWindow.xaml.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\AddLocationWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\AddLocationWindow.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAiwFYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:30:16.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditUserWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditUserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\EditUserWindow.xaml.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditUserWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\EditUserWindow.xaml.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAADwv9sAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:10:32.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddLocationWindow.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\AddLocationWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\AddLocationWindow.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\AddLocationWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\AddLocationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:28:35.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Models.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Models.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Models\\Models.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Models.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAA6wKcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:11:19.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocationsPage.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\LocationsPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\LocationsPage.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\LocationsPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\LocationsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:38:08.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditLocationWindow.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditLocationWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\EditLocationWindow.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditLocationWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\EditLocationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:36:19.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditLocationWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditLocationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\EditLocationWindow.xaml.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditLocationWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\EditLocationWindow.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwD4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:37:07.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditCarModelWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditCarModelWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\EditCarModelWindow.xaml.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditCarModelWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\EditCarModelWindow.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv1MAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:42:09.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateNewCarModelWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\CreateNewCarModelWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\CreateNewCarModelWindow.xaml.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\CreateNewCarModelWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\CreateNewCarModelWindow.xaml.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwKIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:41:41.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarModelPage.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\CarModelPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\CarModelPage.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\CarModelPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\CarModelPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:26:52.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarMakersPage.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\CarMakersPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\CarMakersPage.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\CarMakersPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\CarMakersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:26:15.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditCarModelWindow.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditCarModelWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\EditCarModelWindow.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditCarModelWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\EditCarModelWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:25:40.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditCarMakerWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditCarMakerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\EditCarMakerWindow.xaml.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditCarMakerWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\EditCarMakerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:25:11.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditCarMakerWindow.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditCarMakerWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\EditCarMakerWindow.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditCarMakerWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\EditCarMakerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:25:01.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateNewCarModelWindow.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\CreateNewCarModelWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\CreateNewCarModelWindow.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\CreateNewCarModelWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\CreateNewCarModelWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:24:39.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditUserWindow.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditUserWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\EditUserWindow.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\EditUserWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\EditUserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:05:51.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddUserWindow.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\AddUserWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\AddUserWindow.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\AddUserWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\AddUserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:03:40.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HttpClientService.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\HttpClientService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\HttpClientService.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\HttpClientService.cs",
+              "RelativeToolTip": "WpfApp1\\HttpClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:42:56.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserPage.xaml.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\UserPage.xaml.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\UserPage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\UserPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:11:41.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\UserPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\UserPage.xaml",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\Pages\\UserPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\UserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T13:08:01.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddUserWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\AddUserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AddUserWindow.xaml.cs",
+              "ToolTip": "F:\\Vizsgaremek\\carshopproj-main\\desktop\\WpfApp1\\WpfApp1\\AddUserWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\AddUserWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAhwFMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:06:59.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

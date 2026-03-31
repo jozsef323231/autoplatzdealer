@@ -1,0 +1,44 @@
+﻿<Window x:Class="WpfApp1.AddLocationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Helyszín hozzáadása" Height="600" Width="400">
+    <ScrollViewer>
+        <Grid Margin="10">
+            <StackPanel>
+
+                <StackPanel Margin="0,5">
+                    <Label Content="Helyszín neve" />
+                    <TextBox Name="LocationNameTextBox" />
+                </StackPanel>
+
+                <StackPanel Margin="0,5">
+                    <Label Content="Irányítószám" />
+                    <TextBox Name="PostalCodeTextBox" />
+                </StackPanel>
+
+                <StackPanel Margin="0,5">
+                    <Label Content="Város" />
+                    <TextBox Name="CityTextBox" />
+                </StackPanel>
+
+                <StackPanel Margin="0,5">
+                    <Label Content="Utca" />
+                    <TextBox Name="StreetTextBox" />
+                </StackPanel>
+
+                <StackPanel Margin="0,5">
+                    <Label Content="Maximális kapacitás" />
+                    <TextBox Name="CapacityTextBox" />
+                </StackPanel>
+
+                <StackPanel Margin="0,5">
+                    <Label Content="Telefonszám" />
+                    <TextBox Name="PhoneTextBox" />
+                </StackPanel>
+
+                <Button Content="Mentés" Click="Save_Click" Margin="0,10,0,0" Width="100" HorizontalAlignment="Left" />
+
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Window>

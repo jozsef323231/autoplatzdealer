@@ -1,0 +1,52 @@
+﻿<Page x:Class="WpfApp1.CarsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="clr-namespace:WpfApp1"
+      Title="Autók">
+    <Grid Margin="10">
+        <StackPanel>
+
+            <Button Content="Új autó hozzáadása" Click="AddCar_Click" Width="180" Margin="0,0,0,10" />
+
+            <ListView Name="CarsListView">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Márka" DisplayMemberBinding="{Binding Brand.BrandEnglish}" Width="100" />
+                        <GridViewColumn Header="Modell" DisplayMemberBinding="{Binding CarModel.ModelNameEnglish}" Width="100" />
+                        <GridViewColumn Header="Kivitel" DisplayMemberBinding="{Binding Grade}" Width="50" />
+                        <GridViewColumn Header="Karosszéria" DisplayMemberBinding="{Binding BodyType.NameEnglish}" Width="100" />
+                        <GridViewColumn Header="Helyszín" DisplayMemberBinding="{Binding Location.LocationName}" Width="150" />
+                        <GridViewColumn Header="Motor mérete" DisplayMemberBinding="{Binding EngineSize.EngineSize}" Width="100" />
+                        <GridViewColumn Header="Üzemanyag" DisplayMemberBinding="{Binding FuelType.NameEnglish}" Width="100" />
+                        <GridViewColumn Header="Hajtás" DisplayMemberBinding="{Binding DriveTrain.Type}" Width="100" />
+                        <GridViewColumn Header="Váltó" DisplayMemberBinding="{Binding TransmissionType.Type}" Width="100" />
+                        <GridViewColumn Header="Szín" DisplayMemberBinding="{Binding Color.ColorNameEnglish}" Width="100" />
+                        <GridViewColumn Header="Ár" DisplayMemberBinding="{Binding Price}" Width="100" />
+                        <GridViewColumn Header="Rendszám" DisplayMemberBinding="{Binding LicensePlateNumber}" Width="150" />
+                        <GridViewColumn Header="Műszaki érvényesség" DisplayMemberBinding="{Binding MOTExpiry, StringFormat=\{0:yyyy-MM-dd\}}" Width="100" />
+                        <GridViewColumn Header="Alvázszám" DisplayMemberBinding="{Binding VINNum}" Width="150" />
+                        <GridViewColumn Header="Javítási előzmények" DisplayMemberBinding="{Binding RepairHistory}" Width="100" />
+                        <GridViewColumn Header="Átadás alatt" DisplayMemberBinding="{Binding IsInTransfer}" Width="100" />
+                        <GridViewColumn Header="Dohányoztak benne" DisplayMemberBinding="{Binding IsSmoking}" Width="100" />
+
+                        <GridViewColumn Header="Szerkesztés" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Szerkesztés" Click="EditCar_Click" Tag="{Binding ID}" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Törlés" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Törlés" Click="DeleteCar_Click" Tag="{Binding ID}" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Page>

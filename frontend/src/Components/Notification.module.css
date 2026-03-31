@@ -1,0 +1,47 @@
+.notification {
+  position: fixed;
+  top: 30px;
+  right: 30px;
+  min-width: 260px;
+  max-width: 350px;
+  padding: 16px 24px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 16px;
+  z-index: 3000;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  animation: fadeIn 0.3s;
+}
+
+.success {
+  background: linear-gradient(90deg, #22c55e 60%, #16a34a 100%);
+}
+
+.error {
+  background: linear-gradient(90deg, #ef4444 60%, #b91c1c 100%);
+}
+
+.info {
+  background: linear-gradient(90deg, #2563eb 60%, #1d4ed8 100%);
+}
+
+.close {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 22px;
+  margin-left: 18px;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+.close:hover {
+  color: #000;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}

@@ -1,0 +1,40 @@
+﻿<Page x:Class="WpfApp1.UserPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Felhasználók Kezelése">
+
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="10">
+            <!-- Button to Add User -->
+            <Button Content="Új felhasználó hozzáadása" Click="AddUser_Click" Width="150" Height="30" Margin="0,0,0,10"/>
+
+            <!-- DataGrid to display users -->
+            <DataGrid x:Name="UsersDataGrid" Height="300" AutoGenerateColumns="False" IsReadOnly="True" Margin="0,0,0,10">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Felhasználónév" Binding="{Binding UserName}" />
+                    <DataGridTextColumn Header="Név" Binding="{Binding Name}" />
+                    <DataGridTextColumn Header="Email" Binding="{Binding Email}" />
+                    <DataGridTextColumn Header="Telefonszám" Binding="{Binding PhoneNumber}" />
+                    <DataGridTextColumn Header="Preferált nyelv" Binding="{Binding PreferredLanguage}" />
+                    <DataGridTemplateColumn Header="Műveletek">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <!-- Edit button -->
+                                    <Button Content="Szerkesztés" Click="EditUser_Click" DataContext="{Binding}" Width="70" Margin="5,0,0,0"/>
+                                    <!-- Delete button -->
+                                    <Button Content="Törlés" Click="DeleteUser_Click" DataContext="{Binding}" Width="70" Margin="5,0,0,0"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Page>
