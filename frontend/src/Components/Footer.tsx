@@ -1,6 +1,6 @@
-import { LanguageCtx } from "../App";
 import { useContext } from "react";
-
+import { Link } from "react-router-dom";
+import { LanguageCtx } from "../App";
 
 function Footer() {
     const langCtx = useContext(LanguageCtx)
@@ -29,12 +29,12 @@ function Footer() {
           <a>{langCtx?.translate.footer_about}</a>
           <a>{langCtx?.translate.footer_contact_page}</a>
           <a>{langCtx?.translate.footer_privacy}</a>
-          <a href="https://github.com" target="_blank" rel="noreferrer">
+          <a href="https://github.com/jozsef323231/autoplatzdealer" target="_blank" rel="noreferrer">
             {langCtx?.translate.footer_github}
           </a>
-          <a href="/terms" target="_blank" rel="noreferrer">
+          <Link to="/terms" className="footer-link">
             {langCtx?.translate.footer_terms}
-          </a>
+          </Link>
         </div>
         <div className="footer-bottom">
           <p>{langCtx?.translate.footer_rights}</p>
