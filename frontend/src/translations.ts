@@ -59,6 +59,7 @@ export type TranslationType = {
   footer_privacy: string;
   footer_rights: string;
   footer_github: string;
+  footer_terms: string;
   view_cars: string;
   name: string;
   phoneNumber: string;
@@ -251,6 +252,7 @@ export const translations = {
     footer_contact_page: "Contact",
     footer_privacy: "Privacy Policy",
     footer_github: "GitHub Repository",
+    footer_terms: "Terms of Service",
     footer_rights: "© 2026 Auto Platz Kft. All rights reserved.\n" +
         "Everything found here is strictly for demonstration purposes.",
     view_cars: "View cars",
@@ -435,6 +437,7 @@ export const translations = {
     footer_contact_page: "Kapcsolat",
     footer_privacy: "Adatvédelmi irányelvek",
     footer_github: "GitHub mappa",
+    footer_terms: "ÁSZF",
     footer_rights: "© 2026 Auto Platz Kft. Minden jog fenntartva.\n" +
         "Minden, ami itt található, kizárólag bemutató célokra van.",
     registerTitle: "Regisztráció",
@@ -627,6 +630,7 @@ export const translations = {
     footer_contact_page: "Kontakt",
     footer_privacy: "Datenschutzrichtlinie",
     footer_github: "GitHub repository",
+    footer_terms: "Allgemeine Geschäftsbedingungen",
     footer_rights: "© 2026 Auto Platz GmbH. Alle Rechte vorbehalten.\n Alles hier aufgeführte ist ausschließlich zu Demonstrationszwecken.",
     view_cars: "Autos ansehen",
     loginTitle: "Anmelden",

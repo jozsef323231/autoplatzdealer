@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-F:\Vizsgaremek\carshopproj-main\desktop\WpfApp1\WpfApp1\obj\Debug\
+F:\Vizsgaremek\autoplatzdealer\desktop\WpfApp1\WpfApp1\obj\Debug\
 WpfApp1
 none
 false
 DEBUG;TRACE
-F:\Vizsgaremek\carshopproj-main\desktop\WpfApp1\WpfApp1\App.xaml
+F:\Vizsgaremek\autoplatzdealer\desktop\WpfApp1\WpfApp1\App.xaml
 18595465345
 
 25-1181314898
-261631647682
+26-2079713576
 AddCarWindow.xaml;AddEngineWindow.xaml;AddLocationWindow.xaml;AddUserWindow.xaml;CreateNewCarModelWindow.xaml;EditCarMakerWindow.xaml;EditCarModelWindow.xaml;EditCarWindow.xaml;EditEngineWindow.xaml;EditLocationWindow.xaml;LoginWindow.xaml;MainWindow.xaml;Pages\CarMakersPage.xaml;Pages\CarModelPage.xaml;Pages\CarsPage.xaml;Pages\LocationsPage.xaml;Pages\UserPage.xaml;EditUserWindow.xaml;
 
 False

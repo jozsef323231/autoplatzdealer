@@ -29,8 +29,11 @@ function Footer() {
           <a>{langCtx?.translate.footer_about}</a>
           <a>{langCtx?.translate.footer_contact_page}</a>
           <a>{langCtx?.translate.footer_privacy}</a>
-          <a href="https://" target="_blank" rel="noreferrer">
+          <a href="https://github.com" target="_blank" rel="noreferrer">
             {langCtx?.translate.footer_github}
+          </a>
+          <a href="/terms" target="_blank" rel="noreferrer">
+            {langCtx?.translate.footer_terms}
           </a>
         </div>
         <div className="footer-bottom">

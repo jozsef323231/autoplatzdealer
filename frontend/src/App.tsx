@@ -21,6 +21,7 @@ import {
   faCogs, faArrowLeft, faImage
 } from '@fortawesome/free-solid-svg-icons';
 import LocationsPage from "./Pages/LocationPage.tsx";
+import Terms from "./Pages/Terms.tsx";
 import ScrollToTop from "./Components/ScrollToTop.tsx";
 
 import Notification, { NotificationType } from "./Components/Notification";
@@ -105,6 +106,7 @@ function App() {
                   <Route path="/Car-Details" element={<CarDetails showNotification={showNotification} />} />
                   <Route path="/profile" element={<Profile showNotification={showNotification} />} />
                   <Route path="/locations" element={<LocationsPage showNotification={showNotification} />} />
+                  <Route path="/terms" element={<Terms />} />
                 </Routes>
               </main>
               <Footer />
